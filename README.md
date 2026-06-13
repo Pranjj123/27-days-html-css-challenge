@@ -20,3 +20,6 @@ Simple Profile Card built using HTML and CSS.
 - Social Icons
 - Dark Mode
 - Animation
+
+## Your site is live at 
+https://pranjj123.github.io/27-days-html-css-challenge/
